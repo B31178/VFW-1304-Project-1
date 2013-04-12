@@ -1,7 +1,18 @@
+/*
+Travis Pochintesta
+VFW 1304
+Project 1
+style.css
+*/
+
 body{
-	width:360px
-	margin:20px auto;
-	background: #606c88;
-	color: #fff
-	font-family: Helvetica;
+	width:571px;
+	margin:auto;
+	padding:10px;
+	background: #914D41;
+	color: #F2E2DA;
+	font-family: Arial, Helvetica, san-serif;
 }
+
+#site-wrapper{background:url(../img/iPhoneBG.jpg) no-repeat; height:885px; padding-top:
+#content{width: 480px; height: 690px; overflow: scroll;}
